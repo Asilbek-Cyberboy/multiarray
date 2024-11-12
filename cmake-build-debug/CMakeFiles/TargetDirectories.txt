@@ -1,0 +1,5 @@
+/Users/a.temirov/CLionProjects/multiarray/cmake-build-debug/CMakeFiles/multiarray.dir
+/Users/a.temirov/CLionProjects/multiarray/cmake-build-debug/CMakeFiles/array2.dir
+/Users/a.temirov/CLionProjects/multiarray/cmake-build-debug/CMakeFiles/arrays5.dir
+/Users/a.temirov/CLionProjects/multiarray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a.temirov/CLionProjects/multiarray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
